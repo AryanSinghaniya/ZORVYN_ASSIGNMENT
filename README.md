@@ -4,7 +4,7 @@
 This project is a backend API for managing finance records with secure authentication and role-based access control.
 
 It is designed with an interview-friendly MVC structure and clean module separation so features are easy to explain, maintain, and extend.
-
+To open Swagger UI - https://zorvyn-assignment-vi1b.onrender.com/api-docs/
 ## Features
 - JWT-based authentication (register and login)
 - User management with role and status control
